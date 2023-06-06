@@ -1,0 +1,71 @@
+@media (min-height: 320px) {
+   
+   .footline {
+       margin: auto;
+   }
+}
+    
+footer p {
+    color: black;
+    font-family: monospace,arial,sans-serif;
+    font-weight: 400;
+}
+
+footer a {
+    text-decoration: none;
+    color: blue;
+    font-weight: 800;
+}
+/*background */
+body {
+  background-color: white;
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh; /* Set the height of the container to the full viewport height */
+}
+
+.social {
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 0.5rem;
+}
+
+.social a {
+  margin: 15%;
+}
+
+#heading {
+    color: deeppink; 
+    text-align: center; 
+    font-family: monospace; 
+    letter-spacing: 2px; 
+    font-size: 1rem;
+    margin-top: 5vh;
+}
+
+
+#resume {
+  margin: auto; /* Push the resume link to the bottom */
+}
+#resume ul li {
+  list-style: none;
+}
+#resume a {
+  text-decoration: none;
+  margin-left: 35%;
+  color: grey;
+}
+
+.footline {
+  display: flex;
+  justify-content: center;
+}
+
+footer {
+  color: black; /* Set the color of the footer */
+}
