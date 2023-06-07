@@ -1,71 +1,104 @@
-@media (min-height: 320px) {
-   
-   .footline {
-       margin: auto;
-   }
+
+/*Paragraph Text decoration using jQuery*/
+.mean {
+  color: black;
 }
-    
-footer p {
-    color: black;
-    font-family: monospace,arial,sans-serif;
-    font-weight: 400;
+.text-rotator {
+    text-align: center;
+}
+.text-rotator .text {
+  display: none;
 }
 
-footer a {
-    text-decoration: none;
-    color: blue;
-    font-weight: 800;
+.text-rotator .text.active {
+  display: block;
 }
-/*background */
+
+/* Common styles */
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
 body {
   background-color: white;
-}
-.container {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 70vh; /* Set the height of the container to the full viewport height */
+  font-family: monospace, Arial, sans-serif;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  min-height: 10vh;
+  padding: 2rem;
+  box-sizing: border-box;
+}
+
+#heading {
+  color: deeppink;
+  text-align: center;
+  letter-spacing: 1.5px;
+  font-size: 1.5rem;
+  margin-top: 1rem;
+}
+
+#resume {
+  margin: 1rem 0;
+}
+
+#resume a {
+  text-decoration: none;
+  color: grey;
+  margin-left: 1rem;
+}
+/*Social icons*/
 .social {
   color: white;
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-bottom: 0.5rem;
+  gap: 10px;
+  margin-bottom: 4rem;
 }
 
 .social a {
-  margin: 15%;
+  margin: 1rem;
 }
 
-#heading {
-    color: deeppink; 
-    text-align: center; 
-    font-family: monospace; 
-    letter-spacing: 2px; 
-    font-size: 1rem;
-    margin-top: 5vh;
+.social img {
+  height: 25px;
 }
-
-
-#resume {
-  margin: auto; /* Push the resume link to the bottom */
-}
-#resume ul li {
-  list-style: none;
-}
-#resume a {
-  text-decoration: none;
-  margin-left: 35%;
-  color: grey;
-}
-
-.footline {
+/*Google font image*/
+.Chetan-C {
   display: flex;
   justify-content: center;
+  align-items: center;
+  align-content: center;
 }
 
-footer {
-  color: black; /* Set the color of the footer */
+.Chetan-C img {
+  max-width: 100%;
+  height: 40vh;
+  margin-top: 0.5rem;
+}
+
+/* Footer */
+.footline {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  padding: 0.2rem;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+footer p a {
+    font-family: monospace,arial,serif;
+    font-weight: 500;
+}
+
+footer a {
+    text-decoration: none;
+    color: blue;
 }
