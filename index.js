@@ -31,6 +31,3 @@ $(document).ready(function() {
   rotateText();
 });
 
-
-/*new code*/
-
