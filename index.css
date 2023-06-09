@@ -42,13 +42,6 @@ body {
   margin-top: 1rem;
 }
 
-.Resume {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 100vh;
-}
-
 .Resume a {
   display: block;
   text-align: center;
