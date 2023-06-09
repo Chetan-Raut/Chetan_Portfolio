@@ -49,10 +49,11 @@ body {
 }
 
 .resume-container a {
+  font-family: monospace,arial,serif;
   display: inline-block;
   color: grey;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 900;
 }
 
 .resume-container a:hover {
