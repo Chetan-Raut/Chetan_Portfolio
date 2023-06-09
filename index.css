@@ -1,4 +1,4 @@
-/*Paragraph Text decoration using jQuery*/
+/*Paragraph decoration using jQuery*/
 .mean {
   color: black;
 }
@@ -42,14 +42,11 @@ body {
   margin-top: 1rem;
 }
 
-#resume {
-  margin: auto;
-}
-
 #resume a {
   text-decoration: none;
   color: grey;
 }
+
 /*Social icons*/
 .social {
   color: white;
