@@ -52,11 +52,11 @@ body {
   display: inline-block;
   color: #333;
   text-decoration: none;
-  font-weight: 600;
+  font-weight: 800;
 }
 
 .resume-container a:hover {
-  color: hotpink;
+  color: blue;
 }
 
 
