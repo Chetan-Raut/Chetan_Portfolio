@@ -43,9 +43,7 @@ body {
 }
 
 .Resume a {
-  display: inline-block;
-  margin: 0 auto;
-  text-align: center;
+  color: grey;
   text-decoration: none;
 }
 
