@@ -42,7 +42,7 @@ body {
   margin-top: 1rem;
 }
 
-#Resume a {
+.Resume a {
   text-decoration: none;
   color: grey;
   text-align: center;
