@@ -42,7 +42,11 @@ body {
   margin-top: 1rem;
 }
 
-#resume a {
+.resume {
+  text-align: center;
+}
+
+.resume a {
   text-decoration: none;
   color: grey;
 }
