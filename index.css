@@ -42,11 +42,13 @@ body {
   margin-top: 1rem;
 }
 
-.resume {
-  text-align: center;
+#resume {
+  display: flex;
+  justify-content center;
+  align-items: center;
 }
 
-.resume a {
+#resume a {
   text-decoration: none;
   color: grey;
 }
