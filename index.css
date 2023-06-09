@@ -42,9 +42,24 @@ body {
   margin-top: 1rem;
 }
 
-.Resume a {
-  color: grey;
+/*Resume styling*/
+.resume-container {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.resume-container a {
+  display: inline-block;
+  padding: 10px 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  color: #333;
   text-decoration: none;
+}
+
+.resume-container a:hover {
+  background-color: #ddd;
 }
 
 
