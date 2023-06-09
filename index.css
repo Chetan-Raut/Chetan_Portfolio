@@ -42,10 +42,10 @@ body {
   margin-top: 1rem;
 }
 
-#resume a {
+#Resume a {
   text-decoration: none;
   color: grey;
-  margin: auto;
+  text-align: center;
 }
 
 /*Social icons*/
