@@ -43,13 +43,12 @@ body {
 }
 
 #resume {
-  margin: 1rem 0;
+  text-align: center;
 }
 
 #resume a {
   text-decoration: none;
   color: grey;
-  text-align: center;
 }
 /*Social icons*/
 .social {
