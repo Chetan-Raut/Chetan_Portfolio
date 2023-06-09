@@ -42,15 +42,13 @@ body {
   margin-top: 1rem;
 }
 
-.Resume {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.Resume a {
+  display: inline-block;
+  margin: 0 auto;
+  text-align: center;
+  text-decoration: none;
 }
 
-.Resume a {
-  text-align: center;
-}
 
 /*Social icons*/
 .social {
