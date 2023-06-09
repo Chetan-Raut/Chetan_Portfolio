@@ -50,13 +50,13 @@ body {
 
 .resume-container a {
   display: inline-block;
-  color: #333;
+  color: grey;
   text-decoration: none;
-  font-weight: 800;
+  font-weight: 600;
 }
 
 .resume-container a:hover {
-  color: blue;
+  color: black;
 }
 
 
