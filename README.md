@@ -5,7 +5,7 @@
 </div>
 
 
-<h3>Tech Stack 🗝 </h3>
+<h3>Tech Stack </h3>
 
 <ul>
 <li> HTML5 </li>
@@ -15,8 +15,8 @@
 <li> Bootstrap </li>
 </ul>
 
-<h3> Show Support </h3>
+<h3> Show Support by Giving a ⭐/h3>
 
 <p> You can contribute to me on this link </p>
 
-<a href=""> </a>
+<a href="https://www.buymeacoffee.com/chetanraut" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
