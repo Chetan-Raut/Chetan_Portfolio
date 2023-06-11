@@ -2,7 +2,7 @@
 
 
 
-<h6>Tech Stack 🗝 </h6>
+<h4>Tech Stack 🗝 </h4>
 
 <ul>
 <li> HTML5 </li>
