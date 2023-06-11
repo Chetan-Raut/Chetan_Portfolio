@@ -1,3 +1,32 @@
+/*media query for bigger screens*/
+@media screen and (min-width: 1200px) {
+  /* adjust font size of heading */
+  #heading h1 {
+    font-size: 4em;
+    letter-spacing: 0.7rem;
+  }
+  
+  #resume {
+      font-size: 2.5rem;
+  }
+
+  /* adjust font size of text rotator */
+  .text-rotator .text {
+    font-size: 3em;
+  }
+
+  /* adjust size of social icons */
+  .social a img {
+    width: 5vh;
+    height: 5vw;
+    margin: 2.5rem;
+  }
+  /*adjusting footer*/
+  .footline {
+      font-size: 2rem;
+  }
+}
+
 /*Paragraph decoration using jQuery*/
 .mean {
   color: black;
