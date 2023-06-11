@@ -1,7 +1,7 @@
 # Personal_Portfolio
 
 <div style="text-align: center;">
-<a href="https://github.com/Chetan-Raut/Chetan_Portfolio/">Chetan Raut</a>
+<a href="https://github.com/Chetan-Raut/Chetan_Portfolio/"><strong>Chetan Raut</strong></a>
 </div>
 
 
