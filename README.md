@@ -19,4 +19,4 @@
 <h3> Show Support </h3>
 
 <p> You can contribute to me on this link </p>
-<a href="https://www.buymeacoffee.com/chetanraut"><img src="Buymeacoffee.svg" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
+<a href="https://www.buymeacoffee.com/chetanraut"><img src="Buymeacoffee.svg" alt="Buy Me A Coffee" height= "30px" width= "200px" ></a>
