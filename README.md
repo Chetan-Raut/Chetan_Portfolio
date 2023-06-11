@@ -1,4 +1,3 @@
-# Chetan_Portfolio
+# Personal_Portfolio
 
-
-<h2>Hi 👋 This is My personal portfolio page 😁Feel free to connect with me on any platforms You like ❤</h2> 
+<a href="https://github.com/Chetan-Raut/Chetan_Portfolio/" align="center">Chetan Raut</a>
