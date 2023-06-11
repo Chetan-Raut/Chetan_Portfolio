@@ -15,7 +15,7 @@
 <li> Bootstrap </li>
 </ul>
 
-<h3> Show Support by Giving a ⭐/h3>
+<h3> Show Support </h3>
 
 <p> You can contribute to me on this link </p>
 <a href="https://www.buymeacoffee.com/chetanraut" target="_blank"><img src="https://Buymeacoffee.svg" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
