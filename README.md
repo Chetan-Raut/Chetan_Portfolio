@@ -1,5 +1,6 @@
 # Personal_Portfolio
 
+
 <div style="text-align: center;">
 <a href="https://github.com/Chetan-Raut/Chetan_Portfolio/"><strong>Chetan Raut</strong></a>
 </div>
@@ -18,4 +19,4 @@
 <h3> Show Support </h3>
 
 <p> You can contribute to me on this link </p>
-<a href="https://www.buymeacoffee.com/chetanraut" <i class="fa-light fa-cup-togo fa-2xs"></i> target="_blank"><img src="https://Buymeacoffee.svg" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
+<a href="https://www.buymeacoffee.com/chetanraut"> <img src="https://Buymeacoffee.svg" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
