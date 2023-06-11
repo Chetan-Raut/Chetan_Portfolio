@@ -19,4 +19,4 @@
 
 <p> You can contribute to me on this link </p>
 
-<a href="https://www.buymeacoffee.com/chetanraut" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height= "60px" width= "215px" ></a>
+<a href="https://www.buymeacoffee.com/chetanraut" target="_blank"> alt="Buy Me A Coffee" height= "60px" width= "215px" ><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png"</a>
