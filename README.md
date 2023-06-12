@@ -18,6 +18,4 @@
 
 <h3> Show Support </h3>
 
-<p> You can contribute to me on this link
-<a href="https://buymeacoffee.com/chetanraut"><img src="Buymeacoffee.png" alt="Buy Me A Coffee" height= "10px" width= "150px" ></a>
-</p>
+[![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/chetanraut)
