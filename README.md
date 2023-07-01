@@ -8,5 +8,5 @@
 
 <ul>
 <li> jQuery </li>
-<li> Bootstrap </li>
+<!--<li> Bootstrap </li>-->
 </ul>
