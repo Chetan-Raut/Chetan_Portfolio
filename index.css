@@ -64,7 +64,7 @@ body {
 }
 
 #heading {
-  color: blue; /*color: deeppink;*/
+  color: deeppink;
   text-align: center;
   letter-spacing: 1.5px;
   font-size: 1.5rem;
@@ -97,7 +97,7 @@ body {
   justify-content: center;
   align-items: center;
   gap: 10px;
-  margin-bottom: 4rem;
+  margin-bottom: 2rem;
 }
 
 .social a {
