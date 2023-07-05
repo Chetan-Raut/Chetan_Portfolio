@@ -14,13 +14,6 @@ $(document).ready(function() {
       currentIndex = (currentIndex - 1 + textElements.length) % textElements.length;
     }
 
-  const meanElement = $(".mean");
-    meanElement.css("color", "rgb(255, 0, 0)").css("font-weight", "bold"); // Change color to RGB (Red) and make it bold
-
-    setTimeout(function() {
-      meanElement.css("color", "black").css("font-weight", "normal"); // Change color back to black and remove bold style after 3 seconds
-    }, 3000);
-
     if (currentIndex === 0) {
       isReversed = !isReversed; // Reverse the direction when reaching the first element
     }
