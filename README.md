@@ -1,6 +1,6 @@
 # Personal_Portfolio
 
-<p>A Personal Portfolio built using JavaScript's Library jQuery.</p>
+https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 
 <p>It has links for my social and professional handles and is <em>*in the development stage right now*<em></p>
 
