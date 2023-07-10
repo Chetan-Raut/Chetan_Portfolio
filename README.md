@@ -12,3 +12,6 @@
 </ul>
 
 <!--<img src="" alt="ScreenShot_Chetan-Portfolio"/>-->
+
+## Contact Us
+If you have any questions or comments about Personal Portfolio, please don't hesitate to contact us using the information on site or <a href="">Send Email.</a>
