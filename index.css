@@ -43,13 +43,14 @@
 }
 
 /* Common styles */
-html,
-body {
-  margin: 0;
+html { 
+ margin: 0;
   padding: 0;
 }
 
-body {
+body { 
+  margin: 0;
+  padding: 0;
   background-color: white;
   font-family: monospace, Arial, sans-serif;
 }
