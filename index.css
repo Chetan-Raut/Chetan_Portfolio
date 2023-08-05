@@ -124,6 +124,8 @@ body {
 
 /* Footer */
 .footline {
+  font-family: 'Dancing Script', cursive;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 0.1);
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -132,12 +134,13 @@ body {
   text-align: center;
 }
 
-footer p a {
-    font-family: monospace,arial,serif;
-    font-weight: 500;
+footer p {
+    font-size: 1.5rem;
+    font-weight: 800;
 }
 
 footer a {
     text-decoration: none;
-    color: blue;
+    color: #1538ff;
 }
+
