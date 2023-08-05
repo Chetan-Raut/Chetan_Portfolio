@@ -6,16 +6,54 @@
 <link rel="icon" type="image/png" href="static/C-removebg.png">
     <!-- Font awesome CDN -->
    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+    <!-- Google Fonts -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap">
     <!-- CSS, jQuery and Js -->
     <link rel="stylesheet" href="index.css">
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js">
+    <script src="https://code.jquery.com/jquery-3.7.0.min.js">
 </script>
 
     <script src="index.js"></script>
   
-  <title>Chetan_Raut_Portfolio</title>
+  <title>Chetan Raut | Portfolio</title>
+    <!-- Particle.Js -->
+    <script src="particles.js-master/particles.min.js"></script>
+    <style>
+        #particles-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: -1;
+        }
+    </style>
 </head>
 <body>
+
+<div id="particles-container"></div>
+    <script>            
+        particlesJS('particles-container', {
+            particles: {
+                number: {
+                    value: 100,
+                },
+                shape: {
+                    type: 'circle',
+                },
+                color: {
+                    value: GoogleColors,
+                },
+                size: {
+                    value: 4,
+                },
+                move: {
+                    speed: 5,
+                },
+            },
+        });
+    </script>
+  
     <div id="heading">
  <h1>Chetan Raut</h1>
     </div>
