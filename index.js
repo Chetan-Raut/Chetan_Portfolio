@@ -24,3 +24,6 @@ $(document).ready(function() {
   rotateText();
 });
 
+/* For Adding Particles*/
+
+const GoogleColors = ['#9EBCE6', '#E4A29E', '#F4E89C', '#AED0A7'];
