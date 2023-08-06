@@ -3,7 +3,7 @@
   /* adjust font size of heading */
   #heading h1 {
     font-size: 4em;
-    letter-spacing: 0.7rem;
+    letter-spacing: 1rem;
   }
   
   #resume {
@@ -17,9 +17,9 @@
 
   /* adjust size of social icons */
   .social a img {
-    width: 5vh;
-    height: 5vw;
-    margin: 2.5rem;
+    width: 100%;
+    height: 3vw;
+    margin: 3rem;
   }
   /*adjusting footer*/
   .footline {
@@ -106,7 +106,7 @@ body {
 }
 
 .social img {
-  height: 1.5rem;
+  height: 2rem;
   width: auto;
   max-width: 100%;
 }
