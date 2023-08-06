@@ -106,8 +106,9 @@ body {
 }
 
 .social img {
-  height: 25px;
+  height: 1.5rem;
   width: auto;
+  max-width: 100%;
 }
 /*Google font image*/
 .Chetan-C {
