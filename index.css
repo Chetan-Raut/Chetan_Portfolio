@@ -111,6 +111,12 @@ body {
   max-width: 100%;
 }
 
+.social-Email {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
 .social-Email img {
   height: 0.5rem;
   width: 100%;
