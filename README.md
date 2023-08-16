@@ -19,5 +19,10 @@
 
 <!--<img src="" alt="ScreenShot_Chetan-Portfolio"/>-->
 
+## Special thanks
+
+- Particles Js library for effect.
+
+
 ## Contact Us
 If you have any questions or comments about Personal Portfolio, please don't hesitate to contact me using the information on site or <a href="mailto:chetan.raut2009@gmail.com?subject=Chetan-Portfolio">Send Email.</a>
