@@ -110,6 +110,13 @@ body {
   width: auto;
   max-width: 100%;
 }
+
+.social-Email {
+  height: 2rem;
+  width: 100%;
+  max-width: 100%;
+}
+
 /*Google font image*/
 .Chetan-C {
   display: flex;
